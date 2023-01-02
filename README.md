@@ -1,4 +1,3 @@
-# minesweeper
 minesweeper game
 ====================
 
