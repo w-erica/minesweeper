@@ -6,7 +6,7 @@ Welcome to my Minesweeper game! I hope you like it :)
 ====================
 
 How to run (after downloading files): 
-- compile with "javac -cp .:junit-platform-console-standalone-1.3.2.jar:cis110.jar *.java" if there aren't class files
+- compile with "javac *.java" if there aren't class files
 - “java Minesweeper” (no quotes) to run
 
 How to play: 
