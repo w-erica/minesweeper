@@ -7,12 +7,12 @@ Welcome to my Minesweeper game! I hope you like it :)
 ====================
 
 How to run (after downloading files): 
-	    compile with "javac -cp .:junit-platform-console-standalone-1.3.2.jar:cis110.jar *.java"
-            type “java Minesweeper” (no quotes) into the command line
+- compile with "javac -cp .:junit-platform-console-standalone-1.3.2.jar:cis110.jar *.java" if there aren't class files
+- “java Minesweeper” (no quotes) to run
 
-How to play: click on all the spaces except for the mines. reset the board by 
-             clicking on the button at the top (but you can only do this after 
-             clicking on the board at least once).
+How to play: 
+- click on all the spaces except for the mines. reset the board by 
+- clicking on the button at the top (but you can only do this after clicking on the board at least once).
 
 ====================
 
