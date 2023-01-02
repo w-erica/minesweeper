@@ -11,8 +11,8 @@ How to run (after downloading files):
 - “java Minesweeper” (no quotes) to run
 
 How to play: 
-- click on all the spaces except for the mines. reset the board by 
-- clicking on the button at the top (but you can only do this after clicking on the board at least once).
+- click on all the spaces except for the mines. 
+- reset the board by clicking on the button at the top (but you can only do this after clicking on the board at least once).
 
 ====================
 
